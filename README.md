@@ -8,8 +8,7 @@ An interactive, end-to-end data analytics dashboard that analyzes transaction lo
 
 * **Live Demo Video:** [Click here to watch the 1-minute demo](https://www.loom.com/share/272159d2d2b94a46a8bbb7037929b9d4)
 
-![Dashboard Preview](<img width="580" height="328" alt="Screenshot 2026-10-06 113330" src="https://github.com/user-attachments/assets/1270ed61-24d4-46d5-a0da-d93363f97ae4" />
-)
+![Dashboard Preview](dashboard.png)
 
 ---
 
